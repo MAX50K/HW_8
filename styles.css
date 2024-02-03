@@ -1,19 +1,12 @@
 .text-box {
     background-color: brown;
 }
-.yellow {
-    color: yellow;
-}
-.pink{
-    color: pink;
-}
-.green{
-    color: green;
+
+.text-box:nth-child()
+
+
+p[id="greycol"]{
+    color: grey;
 }
 
-.grey {
-    color:grey ;
-}
-.red {
-    color: red;
-}
+
